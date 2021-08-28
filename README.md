@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rsunray
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Deep Learning
 - 📫 How to reach me rsunray2@gmail.com
